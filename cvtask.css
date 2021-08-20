@@ -1,0 +1,36 @@
+body{
+    border:5px solid black;
+    padding:15px;
+    margin: 5px;
+    font-family: "Times New Roman";
+}
+body .nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+body .nav .img-container{
+    display: flex;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: 300px;
+}
+body .main{
+    margin-left: 20px;
+}
+
+p{
+      text-align: center;
+}
+h2{
+    text-align:center;
+    color:black; 
+}
+h5{
+    line-height:10%;
+}
+ul{
+    font-family: "Times New Roman";
+}
